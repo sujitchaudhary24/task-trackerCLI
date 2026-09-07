@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries and Cook Dinner",
+    "status": "done",
+    "createdAt": "2026-09-07T11:07:09.913Z",
+    "updatedAt": "2026-09-07T11:13:51.388Z"
+  },
+  {
+    "id": 2,
+    "description": "Take bath",
+    "status": "in-progress",
+    "createdAt": "2026-09-07T11:07:34.492Z",
+    "updatedAt": "2026-09-07T11:14:28.228Z"
+  },
+  {
+    "id": 3,
+    "description": "Set alarm",
+    "status": "todo",
+    "createdAt": "2026-09-07T11:08:47.697Z",
+    "updatedAt": "2026-09-07T11:08:47.704Z"
+  }
+]
