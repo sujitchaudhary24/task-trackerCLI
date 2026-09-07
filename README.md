@@ -22,6 +22,7 @@ This project allows you to add, update, delete, and track tasks using a JSON fil
 * File System (`fs`) module
 * JSON
 
-## Project URl
-* https://github.com/sujitchaudhary24/task-trackerCLI
+## Project URL
+
+https://github.com/sujitchaudhary24/task-trackerCLI
  
