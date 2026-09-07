@@ -23,5 +23,5 @@ This project allows you to add, update, delete, and track tasks using a JSON fil
 * JSON
 
 ## Project URl
-* https://github.com/sujitchaudhary24/task-trackerCLI.git
+* https://github.com/sujitchaudhary24/task-trackerCLI
  
